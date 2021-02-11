@@ -1,0 +1,3 @@
+= page-title "DemoFront"
+h1 Hello
+= outlet
